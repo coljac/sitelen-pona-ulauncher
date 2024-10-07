@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "Type sitelen pona",
+  "description": "Converts latin to sitelen pona UCSUR and copies to clipboard",
+  "developer_name": "jan Colin",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "type_sp",
+      "type": "keyword",
+      "name": "sitelen pona",
+      "description": "Copy UCSUR sitelen pona to clipboard",
+      "default_value": "sp"
+    }
+  ]
+}
