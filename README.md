@@ -4,3 +4,4 @@ Converts latin strings ("toki pona") to UCSUR sitelen pona and puts it in the cl
 
 Supports cartouches with `[...]`.
 
+The extension will crash if the `pyperclip` module is not installed, make sure to install it.
